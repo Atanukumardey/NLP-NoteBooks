@@ -1,0 +1,11 @@
+langdetect
+unicodedata
+unidecode
+ekphrasis
+nltk
+TextBlob
+spellchecker
+krovetzstemmer
+urlexpander
+contractions
+emot
